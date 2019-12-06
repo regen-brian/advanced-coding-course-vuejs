@@ -9,7 +9,7 @@
 	- Hello World VueJS app
 	- How to update content with a function or browser
 
-	## Week 2 - Expanding on what Vue can do with templates.
+## Week 2 - Expanding on what Vue can do with templates.
 - Name: Vue get a Vue! Vue get a Vue! Vue get a Vue!
 - Assignment: 
 - Date: 12/12/19
