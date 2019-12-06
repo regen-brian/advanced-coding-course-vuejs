@@ -16,7 +16,7 @@
 - Content of Course
 	- Discuss components and how they are used
 
-	## Week 3 - What is a single page app?
+## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
 - Assignment:
 - Date: 12/19/19
