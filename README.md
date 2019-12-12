@@ -45,3 +45,12 @@
 - Name: Make it yours. Make it shine!
 - Assignment:
 - Date: 1/30/20
+
+
+## Additional Resources
+This one is how I learned vuejs it is really good, you will build 3 apps in 3 hours.
+-https://www.youtube.com/watch?v=4deVCNJq3qc
+
+Scrimba has some nice courses, and a really good interface where you can code in the browser.
+-https://scrimba.com/g/glearnvue
+
