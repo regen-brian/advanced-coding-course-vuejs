@@ -11,10 +11,10 @@
 
 ## Week 2 - Expanding on what Vue can do with templates.
 - Name: Vue get a Vue! Vue get a Vue! Vue get a Vue!
-- Assignment: 
+- Assignment: Complete the tasks inside /Lesson 2 - VueJS Templates Expanded/Homework/index.html
 - Date: 12/12/19
 - Content of Course
-	- Discuss components and how they are used
+	- Discuss the different types of interpolations
 
 ## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
