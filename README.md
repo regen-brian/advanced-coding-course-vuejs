@@ -12,39 +12,32 @@
 ## Week 2 - Expanding on what Vue can do with templates.
 - Name: Vue get a Vue! Vue get a Vue! Vue get a Vue!
 - Assignment: Complete the tasks inside /Lesson 2 - VueJS Templates Expanded/Homework/index.html
-- Date: 12/12/19
 - Content of Course
 	- Discuss the different types of interpolations
 
 ## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
 - Assignment:
-- Date: 12/19/19
 
 ## Week 4 - How do I go from one page to another in a single page app?
 - Name: Switching pages like Houdini
 - Assignment:
-- Date: 1/2/20
 
 ## Week 5 - What is a UI Framework?
 - Name: Less thinking and faster development
 - Assignment:
-- Date: 1/9/20
 
 ## Week 6 - Start on final project (Wireframe 3 pages, Home, About, Portfolio Item)
 - Name: Content + Wireframes = <3
 - Assignment: 
-- Date: 1/16/20
 
 ## Week 7 - Work on final project (Page Template Builds)
 - Name: Protosaurus, a caveman approach to building UI
 - Assignment:
-- Date: 1/23/20
 
 ## Week 8 - Finalize project and present
 - Name: Make it yours. Make it shine!
 - Assignment:
-- Date: 1/30/20
 
 
 ## Additional Resources
