@@ -3,7 +3,6 @@
 ## Week 1 - What is VueJS?
 - Name: Getting a better VueJS of Javascript.
 - Assignment: Build a vuejs component that uses an input to update the text on the page.
-- Date: 12/5/19
 - Content of Course:
 	- VueJS application could be a small part of a large page or a whole application
 	- Hello World VueJS app
