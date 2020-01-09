@@ -47,3 +47,6 @@ This is a good tutorial where you will build 3 apps in 3 hours.
 Scrimba has some nice courses, and a really good interface where you can code in the browser.
 - https://scrimba.com/g/glearnvue
 
+Vue CLI
+- https://cli.vuejs.org/
+
