@@ -16,7 +16,7 @@
 
 ## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
-- Assignment:
+- Assignment: Create an SPA with Vue-cli
 
 ## Week 4 - How do I go from one page to another in a single page app?
 - Name: Switching pages like Houdini
