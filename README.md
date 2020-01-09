@@ -17,6 +17,7 @@
 ## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
 - Assignment: Create an SPA with Vue-cli
+- Homework: Add contents of homework 2 to the HelloWorld component in our generated SPA
 
 ## Week 4 - How do I go from one page to another in a single page app?
 - Name: Switching pages like Houdini
