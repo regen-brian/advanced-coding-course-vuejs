@@ -16,12 +16,15 @@
 
 ## Week 3 - What is a single page app?
 - Name: Who doesn't like the SPA
-- Assignment: Create an SPA with Vue-cli
-- Homework: Add contents of homework 2 to the HelloWorld component in our generated SPA
+- Assignment: Add contents of homework 2 to the HelloWorld component in our generated SPA
+- Content of Course: 
+	- Learn the differences between a multi-page and single page application.
 
 ## Week 4 - How do I go from one page to another in a single page app?
 - Name: Switching pages like Houdini
-- Assignment:
+- Assignment: Add a new page with your favorite songs and movies to your VueJS SPA
+- Content of Course
+	- Review how a SPA works and how VueJS uses routes to grab the content you need when you click a link
 
 ## Week 5 - What is a UI Framework?
 - Name: Less thinking and faster development
